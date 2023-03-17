@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "_messageId": "c4e6bd04-5149-11e7-b114-b2f933d5fe66",
+    "_requestDateTime": "2022-11-21T23:41:22+00:00",
+    "_applicationId": "45d1d0d841633e72e2c30d2eabbe061a"
+  },
+  "data": {
+    "movement": [
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-10-06T05:41:59Z",
+        "movementValue": "50.00",
+        "transactionName": "Deposito",
+        "networkType": "Bancolombia",
+        "proofNumber": 470229,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL80",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-10-06T05:41:59Z",
+        "movementValue": "50.00",
+        "transactionName": "Deposito",
+        "networkType": "Bancolombia",
+        "proofNumber": 652058,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL80",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-10-06T05:41:59Z",
+        "movementValue": "50.00",
+        "transactionName": "Deposito",
+        "networkType": "Bancolombia",
+        "proofNumber": 166997,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL80",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-10-06T05:41:59Z",
+        "movementValue": "50.00",
+        "transactionName": "Deposito",
+        "networkType": "Bancolombia",
+        "proofNumber": 652058,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL80",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-10-06T05:41:59Z",
+        "movementValue": "50.00",
+        "transactionName": "Deposito",
+        "networkType": "Bancolombia",
+        "proofNumber": 166997,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL80",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-10-06T05:41:59Z",
+        "movementValue": "50.00",
+        "transactionName": "Deposito",
+        "networkType": "Bancolombia",
+        "proofNumber": 470229,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL80",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-10-06T05:41:59Z",
+        "movementValue": "50.00",
+        "transactionName": "Deposito",
+        "networkType": "Bancolombia",
+        "proofNumber": 166997,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL80",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-10-06T05:41:59Z",
+        "movementValue": "50.00",
+        "transactionName": "Deposito",
+        "networkType": "Bancolombia",
+        "proofNumber": 470229,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL80",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-10-06T05:41:59Z",
+        "movementValue": "50.00",
+        "transactionName": "Deposito",
+        "networkType": "Bancolombia",
+        "proofNumber": 652058,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL80",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-10-06T05:41:59Z",
+        "movementValue": "50.00",
+        "transactionName": "Deposito",
+        "networkType": "Bancolombia",
+        "proofNumber": 652058,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL80",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-10-06T05:41:59Z",
+        "movementValue": "50.00",
+        "transactionName": "Deposito",
+        "networkType": "Bancolombia",
+        "proofNumber": 166997,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL80",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-10-06T05:41:59Z",
+        "movementValue": "50.00",
+        "transactionName": "Deposito",
+        "networkType": "Bancolombia",
+        "proofNumber": 470229,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL80",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-10-06T05:41:59Z",
+        "movementValue": "50.00",
+        "transactionName": "Deposito",
+        "networkType": "Bancolombia",
+        "proofNumber": 166997,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL80",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-10-06T05:41:59Z",
+        "movementValue": "50.00",
+        "transactionName": "Deposito",
+        "networkType": "Bancolombia",
+        "proofNumber": 652058,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL80",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-10-06T05:41:59Z",
+        "movementValue": "50.00",
+        "transactionName": "Deposito",
+        "networkType": "Bancolombia",
+        "proofNumber": 470229,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL80",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-10-06T05:41:59Z",
+        "movementValue": "50.00",
+        "transactionName": "Deposito",
+        "networkType": "Bancolombia",
+        "proofNumber": 652058,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL80",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-10-06T05:41:59Z",
+        "movementValue": "50.00",
+        "transactionName": "Deposito",
+        "networkType": "Bancolombia",
+        "proofNumber": 470229,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL80",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-10-06T05:41:59Z",
+        "movementValue": "50.00",
+        "transactionName": "Deposito",
+        "networkType": "Bancolombia",
+        "proofNumber": 652058,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL80",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-10-06T05:41:59Z",
+        "movementValue": "50.00",
+        "transactionName": "Deposito",
+        "networkType": "Bancolombia",
+        "proofNumber": 166997,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL80",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-10-06T05:41:59Z",
+        "movementValue": "50.00",
+        "transactionName": "Deposito",
+        "networkType": "Bancolombia",
+        "proofNumber": 166997,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL80",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      }
+    ]
+  },
+  "pagination": {
+    "pageNumber": 0,
+    "pageSize": 500,
+    "totalElements": 20
+  },
+  "links": {
+    "self": "/v1/correspondent-bank-data-management/movement/retrieve-movement"
+  }
+}

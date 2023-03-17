@@ -1,0 +1,7 @@
+{
+  "name": "fiz-scenarios-balance",
+  "packageManager": "yarn@3.3.1",
+  "scripts": {
+    "dev": "node src/index.js"
+  }
+}

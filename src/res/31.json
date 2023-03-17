@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "_messageId": "c4e6bd04-5149-11e7-b114-b2f933d5fe66",
+    "_requestDateTime": "2022-12-20T20:26:29+00:00",
+    "_applicationId": "45d1d0d841633e72e2c30d2eabbe061a"
+  },
+  "data": {
+    "movement": [
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-12-20T09:05:08Z",
+        "movementValue": "6000.00",
+        "transactionName": "Retiro",
+        "networkType": "Redeban",
+        "proofNumber": 597369,
+        "transactionCode": "Aprobado",
+        "terminalCode": "CNBBCL03",
+        "errorMessage": ""
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-12-20T09:05:08Z",
+        "movementValue": "6000.00",
+        "transactionName": "Retiro",
+        "networkType": "Redeban",
+        "proofNumber": 752281,
+        "transactionCode": "Aprobado",
+        "terminalCode": "CNBBCL03",
+        "errorMessage": ""
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-12-20T09:05:08Z",
+        "movementValue": "6000.00",
+        "transactionName": "Retiro",
+        "networkType": "Redeban",
+        "proofNumber": 719778,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL03",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-12-20T09:05:08Z",
+        "movementValue": "6000.00",
+        "transactionName": "Retiro",
+        "networkType": "Redeban",
+        "proofNumber": 346324,
+        "transactionCode": "Aprobado",
+        "terminalCode": "CNBBCL03",
+        "errorMessage": ""
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-12-20T09:05:08Z",
+        "movementValue": "6000.00",
+        "transactionName": "Retiro",
+        "networkType": "Redeban",
+        "proofNumber": 703848,
+        "transactionCode": "Aprobado",
+        "terminalCode": "CNBBCL03",
+        "errorMessage": ""
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-12-20T09:05:08Z",
+        "movementValue": "6000.00",
+        "transactionName": "Retiro",
+        "networkType": "Redeban",
+        "proofNumber": 170507,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL03",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-12-20T09:05:08Z",
+        "movementValue": "6000.00",
+        "transactionName": "Retiro",
+        "networkType": "Redeban",
+        "proofNumber": 323099,
+        "transactionCode": "Aprobado",
+        "terminalCode": "CNBBCL03",
+        "errorMessage": ""
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-12-20T09:05:08Z",
+        "movementValue": "6000.00",
+        "transactionName": "Retiro",
+        "networkType": "Redeban",
+        "proofNumber": 265846,
+        "transactionCode": "Aprobado",
+        "terminalCode": "CNBBCL03",
+        "errorMessage": ""
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-12-20T09:05:08Z",
+        "movementValue": "6000.00",
+        "transactionName": "Retiro",
+        "networkType": "Redeban",
+        "proofNumber": 293954,
+        "transactionCode": "Aprobado",
+        "terminalCode": "CNBBCL03",
+        "errorMessage": ""
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-12-20T09:05:08Z",
+        "movementValue": "6000.00",
+        "transactionName": "Retiro",
+        "networkType": "Redeban",
+        "proofNumber": 45808,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL03",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-12-19T09:05:08Z",
+        "movementValue": "6000.00",
+        "transactionName": "Retiro",
+        "networkType": "Redeban",
+        "proofNumber": 832697,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL03",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-12-19T09:05:08Z",
+        "movementValue": "6000.00",
+        "transactionName": "Retiro",
+        "networkType": "Redeban",
+        "proofNumber": 426740,
+        "transactionCode": "Aprobado",
+        "terminalCode": "CNBBCL03",
+        "errorMessage": ""
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-12-19T09:05:08Z",
+        "movementValue": "6000.00",
+        "transactionName": "Retiro",
+        "networkType": "Redeban",
+        "proofNumber": 721976,
+        "transactionCode": "Aprobado",
+        "terminalCode": "CNBBCL03",
+        "errorMessage": ""
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-12-19T09:05:08Z",
+        "movementValue": "6000.00",
+        "transactionName": "Retiro",
+        "networkType": "Redeban",
+        "proofNumber": 903347,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL03",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-12-19T09:05:08Z",
+        "movementValue": "6000.00",
+        "transactionName": "Retiro",
+        "networkType": "Redeban",
+        "proofNumber": 906399,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL03",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-12-19T09:05:08Z",
+        "movementValue": "6000.00",
+        "transactionName": "Retiro",
+        "networkType": "Redeban",
+        "proofNumber": 13031,
+        "transactionCode": "Aprobado",
+        "terminalCode": "CNBBCL03",
+        "errorMessage": ""
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-12-19T09:05:08Z",
+        "movementValue": "6000.00",
+        "transactionName": "Retiro",
+        "networkType": "Redeban",
+        "proofNumber": 815973,
+        "transactionCode": "Aprobado",
+        "terminalCode": "CNBBCL03",
+        "errorMessage": ""
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-12-19T09:05:08Z",
+        "movementValue": "6000.00",
+        "transactionName": "Retiro",
+        "networkType": "Redeban",
+        "proofNumber": 445875,
+        "transactionCode": "Aprobado",
+        "terminalCode": "CNBBCL03",
+        "errorMessage": ""
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-12-19T09:05:08Z",
+        "movementValue": "6000.00",
+        "transactionName": "Retiro",
+        "networkType": "Redeban",
+        "proofNumber": 583422,
+        "transactionCode": "Aprobado",
+        "terminalCode": "CNBBCL03",
+        "errorMessage": ""
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-12-19T09:05:08Z",
+        "movementValue": "6000.00",
+        "transactionName": "Retiro",
+        "networkType": "Redeban",
+        "proofNumber": 360789,
+        "transactionCode": "Rechazado",
+        "terminalCode": "CNBBCL03",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      }
+    ]
+  },
+  "pagination": {
+    "pageNumber": 0,
+    "pageSize": 20,
+    "totalElements": 20
+  },
+  "links": {
+    "self": "/v1/correspondent-bank-data-management/movement/retrieve-movement"
+  }
+}

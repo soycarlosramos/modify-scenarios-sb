@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "_messageId": "c4e6bd04-5149-11e7-b114-b2f933d5fe66",
+    "_requestDateTime": "2022-09-21T17:46:34+00:00",
+    "_applicationId": "45d1d0d841633e72e2c30d2eabbe061a"
+  },
+  "data": {
+    "movement": [
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-02-15T08:38:08Z",
+        "movementValue": "500.00",
+        "transactionName": "Deposito",
+        "networkType": "Redeban",
+        "proofNumber": 889554,
+        "transactionCode": "Aprobado",
+        "terminalCode": "OCP00014",
+        "errorMessage": ""
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-01-03T08:38:08Z",
+        "movementValue": "500.00",
+        "transactionName": "Transferencia",
+        "networkType": "Credibanco",
+        "proofNumber": 889554,
+        "transactionCode": "Reversado",
+        "terminalCode": "OCP00014",
+        "errorMessage": ""
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-03-20T08:38:08Z",
+        "movementValue": "500.00",
+        "transactionName": "Retiro",
+        "networkType": "Credibanco",
+        "proofNumber": 889554,
+        "transactionCode": "Rechazado",
+        "terminalCode": "OCP00014",
+        "errorMessage": "EXCEDE EL CUPO PERMITIDO"
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-02-20T08:38:08Z",
+        "movementValue": "500.00",
+        "transactionName": "Deposito",
+        "networkType": "Redeban",
+        "proofNumber": 889554,
+        "transactionCode": "Aprobado",
+        "terminalCode": "OCP00014",
+        "errorMessage": ""
+      },
+      {
+        "pointCode": 13108,
+        "pointName": "Bancolombia corresponsales",
+        "movementDate": "2022-01-13T08:38:08Z",
+        "movementValue": "500.00",
+        "transactionName": "Transferencia",
+        "networkType": "Credibanco",
+        "proofNumber": 889554,
+        "transactionCode": "Aprobado",
+        "terminalCode": "OCP00014",
+        "errorMessage": ""
+      }
+    ]
+  },
+  "pagination": {
+    "pageNumber": 0,
+    "pageSize": 5,
+    "totalElements": 7
+  },
+  "links": {
+    "self": "/v1/correspondent-bank-data-management/movement/retrieve-movement"
+  }
+}
